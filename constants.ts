@@ -29,6 +29,7 @@ export const DEFAULT_CATEGORIES: Category[] = [
       { id: '20', title: 'AI-Image', url: 'https://ai.wedp.dpdns.org', description: '科技刘-文生图', icon: 'https://blog.wedp.dpdns.org/jpg/favicon.ico' },
       { id: '21', title: 'Sub', url: 'https://sub.zxlwq.dpdns.org', description: '科技刘-订阅优选', icon: 'https://blog.wedp.dpdns.org/jpg/favicon.ico' },
       { id: '22', title: 'Sub-Web', url: 'https://subw.zxlwq.dpdns.org', description: '科技刘-订阅转换', icon: 'https://blog.wedp.dpdns.org/jpg/favicon.ico' },
+      { id: '23', title: 'Base58', url: 'https://basea.zxlwq.dpdns.org', description: '科技刘-Base58', icon: 'https://blog.wedp.dpdns.org/jpg/favicon.ico' },
     ]
   },
   {
